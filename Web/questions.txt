@@ -1,0 +1,18 @@
+Energy types:
+-Hydro
+-Natural Gas
+-Oil
+-Solar
+-Solar Thermal
+-Tidal
+-Wind
+
+Climate types:
+-Arid
+-Mild
+-Polar
+-Temperate
+-Tropical
+-Tundra
+
+
