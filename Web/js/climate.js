@@ -1,3 +1,7 @@
+/**climate.js written by Gabriella Alexis
+ * This is the code for the pop up modal
+ */
+
 const openModalButtons = document.querySelectorAll('[data-modal-target]')
 const closeModalButtons = document.querySelectorAll('[data-close-button]')
 const overlay = document.getElementById('overlay')
