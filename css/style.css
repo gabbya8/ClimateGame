@@ -155,7 +155,7 @@ a:active.btn:after {
   color: black;
   width: 500px;
   max-width: 80%;
-  height: 50%;
+  height: 60%;
 }
 
 .modal.active {
